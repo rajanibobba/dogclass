@@ -1,0 +1,5 @@
+fido, 3, male
+sally, 5, female
+max, 7, male
+pintoo, 9, female
+mr belvedere, 11, male
